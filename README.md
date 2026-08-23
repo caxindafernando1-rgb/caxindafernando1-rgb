@@ -1,10 +1,10 @@
 <h1>
 <h1>
-   🙃 sou o Fernando Caxida!
+   🙃 Fernando Caxida!
 </h1>
 
 <p>
-  👨‍💻 Sou estudante de Eletrônica e Telecomunicações em Angola, com experiência prática como técnico de antenas parabólicas. Estou constantemente aprendendo sobre programação, eletrônica e inteligência artificial.
+  👨‍💻 I am an Electronics and Telecommunications student in Angola, with practical experience as a satellite dish technician. I am constantly learning about programming, electronics, and artificial intelligence.
 </p>
 </h1>
 
