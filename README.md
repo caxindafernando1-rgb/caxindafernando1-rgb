@@ -1,10 +1,10 @@
 <h1>
 <h1>
-  Olá, sou o Fernando Caxida!
+  # Fernando Caxinda 🙃
 </h1>
 
 <p>
-  Sou estudante de Eletrônica e Telecomunicações em Angola, com experiência prática como técnico de antenas parabólicas. Estou constantemente aprendendo sobre programação, eletrônica e inteligência artificial.
+ ## 👨‍💻Sou estudante de Eletrônica e Telecomunicações em Angola, com experiência prática como técnico de antenas parabólicas. Estou constantemente aprendendo sobre programação, eletrônica e inteligência artificial.
 </p>
 </h1>
 
