@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  👨‍💻 I am an Electronics and Telecommunications student in Angola, with practical experience as a satellite dish technician. I am constantly learning about programming, electronics, and artificial intelligence.
+  👨‍💻 I am an Electronics and Telecommunications student, with practical experience as a satellite dish technician. I am constantly learning about programming, electronics, and artificial intelligence.
 </p>
 
  <li>
