@@ -1,10 +1,10 @@
 <h1>
 <h1>
-   Fernando Caxinda 🙃
+  Olá, sou o Fernando Caxida!
 </h1>
 
 <p>
-  👨‍💻Sou estudante de Eletrônica e Telecomunicações em Angola, com experiência prática como técnico de antenas parabólicas. Estou constantemente aprendendo sobre programação, eletrônica e inteligência artificial.
+  Sou estudante de Eletrônica e Telecomunicações em Angola, com experiência prática como técnico de antenas parabólicas. Estou constantemente aprendendo sobre programação, eletrônica e inteligência artificial.
 </p>
 </h1>
 
@@ -26,20 +26,18 @@
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Whatshapp](https://img.shields.io/badge/WhatshApp-Let's%20Connect%20-006567?style=for-the-badge&logo=xing&logoColor=white)](https://wa.me)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/fernadoCaxina)
+[![Whatshapp](https://img.shields.io/badge/WhatshApp-Let's%20Connect%20-006567?style=for-the-badge&logo=xing&logoColor=white)](https://whatshAPP.com/936035640)
 
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
- ![c](https://img.shields.io/badge/C/C++-FFCA28?style=flat&logo=firebase&logoColor=black)
-  ![MicroCForPico](https://img.shields.io/badge/MicroCforPic-2D3748?style=flat&logo=prisma&logoColor=white)
-  ![ArduinoIDE](https://img.shields.io/badge/ArduinoIDE-FF6F00?style=flat&logo=typeorm&logoColor=white)
+ ![c](https://img.shields.io/badge/C/C++-=flat&logo=firebase&logoColor=black)
+  ![MicroCForPico](https://img.shields.io/badge/MicroCforPic-=flat&logo=prisma&logoColor=white)
+  ![ArduinoIDE](https://img.shields.io/badge/ArduinoIDE-=flat&logo=typeorm&logoColor=RED)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Proteus](https://img.shields.io/badge/Proteus-2496ED?style=flat&logo=docker&logoColor=white) 
+  ![Proteus](https://img.shields.io/badge/Proteus-flat&logo=docker&logoColor=white) 
 <br/>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
@@ -49,7 +47,3 @@
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
-
-
-
-
