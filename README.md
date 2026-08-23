@@ -1,24 +1,23 @@
 <h1>
 <h1>
-   🙃 Fernando Caxida!
+   🙃 Fernando Caxida
 </h1>
 
 <p>
   👨‍💻 I am an Electronics and Telecommunications student in Angola, with practical experience as a satellite dish technician. I am constantly learning about programming, electronics, and artificial intelligence.
 </p>
-</h1>
 
  <li>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contacte-me: <a href="mailto:caxindafernando@gmail.com"><strong>caxindafernando@gmail.com</strong></a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me: <a href="mailto:caxindafernando@gmail.com"><strong>caxindafernando@gmail.com</strong></a>
 </li>
  <li>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Atualmente, estou em desenvolvimento, focado em <strong>projetos com microcontroladores e no aprendizado da linguagem de programação em C</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently, I am developing my skills, focused on <strong>microcontroller projects and learning the C programming language</strong>
 </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Inteligência Artificial aplicada a sistemas eletrónicos e automação
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Artificial Intelligence applied to electronic systems and automation
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Experiência prática na instalação e manutenção de sistemas de recepção de TV via satélite (antenas parabólicas) e RF
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Practical experience in the installation and maintenance of satellite TV reception systems (satellite dishes) and RF
   </li>
 </ul>
 
