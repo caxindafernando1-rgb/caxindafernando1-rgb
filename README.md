@@ -26,8 +26,9 @@
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/fernadoCaxina)
-[![Whatshapp](https://img.shields.io/badge/WhatshApp-Let's%20Connect%20-006567?style=for-the-badge&logo=xing&logoColor=white)](https://whatshAPP.com/936035640)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernandocaxinda)
+[![Whatshapp](https://img.shields.io/badge/WhatshApp-Let's%20Connect%20-006567?style=for-the-badge&logo=Color=white)](https://wa.me
+)
 
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
