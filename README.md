@@ -45,10 +45,7 @@
 <br/>
 
 ---
-![Stats](https://github-flex.vercel.app/api/stats?username=caxindafernando1-rgb&theme=dark)
-![Languages](https://github-flex.vercel.app/api/languages?username=caxindafernando1-rgb)
 
----
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2058%20mins-blue?style=flat)
