@@ -51,6 +51,14 @@
 ---
 ---
 <!--START_SECTION:waka-->
+
+```txt
+Python     2 hrs 27 mins         ███████████████▒░░░░░░░░░   61.68 %
+C          1 hr 25 mins          █████████░░░░░░░░░░░░░░░░   35.82 %
+Markdown   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
+
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
