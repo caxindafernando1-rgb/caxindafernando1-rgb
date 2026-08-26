@@ -44,6 +44,13 @@
 
 <br/>
 
+---
+![Stats](https://github-flex.vercel.app/api/stats?username=caxindafernando1-rgb&theme=dark)
+![Languages](https://github-flex.vercel.app/api/languages?username=caxindafernando1-rgb)
+
+---
+![Tempo de desenvolvimento](https://github-stats-extended.vercel.app/api/wakatime?username=14fcfe29-0029-4484-8cd4-f40b63472344)
+
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
