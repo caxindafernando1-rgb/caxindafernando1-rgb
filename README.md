@@ -45,6 +45,11 @@
 <br/>
 
 ---
+![Stats](https://github-flex.vercel.app/api/stats?username=caxindafernando1-rgb&theme=dark)
+![Languages](https://github-flex.vercel.app/api/languages?username=caxindafernando1-rgb)
+
+---
+---
 <!--START_SECTION:waka-->
 
 ```txt
