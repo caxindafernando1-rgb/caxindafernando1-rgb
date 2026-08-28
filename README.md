@@ -50,7 +50,7 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
@@ -93,23 +93,23 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-C                        3 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.02 % 
-Python                   3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.31 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+C                        3 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+Python                   3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curso-Microgenio         4 hrs 22 mins       ██████████████░░░░░░░░░░░   54.29 % 
-Projetos                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Curso-de-Python          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Apontamentos             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+curso-Microgenio         4 hrs 25 mins       ██████████████░░░░░░░░░░░   54.52 % 
+Projetos                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Curso-de-Python          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Apontamentos             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-Windows                  8 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +133,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 06:51:52 UTC
+ Last Updated on 28/08/2026 08:39:26 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
