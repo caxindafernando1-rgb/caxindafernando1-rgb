@@ -50,15 +50,15 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.4 kB Used in GitHub's Storage 
+> 📦 32.5 kB Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2026
+> 🏆 321 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                103 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌆 Daytime                106 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
-🌃 Evening                90 commits          ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-🌙 Night                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌞 Morning                105 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌆 Daytime                109 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌃 Evening                94 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+🌙 Night                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Tuesday                  67 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Wednesday                82 commits          ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Tuesday                  68 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Wednesday                85 commits          ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
 
 
@@ -93,23 +93,23 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-C                        3 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-Python                   3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+C                        3 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.02 % 
+Python                   3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curso-Microgenio         4 hrs 25 mins       ██████████████░░░░░░░░░░░   54.52 % 
-Projetos                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Curso-de-Python          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Apontamentos             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+curso-Microgenio         4 hrs 25 mins       █████████████░░░░░░░░░░░░   50.91 % 
+Projetos                 3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.05 % 
+Curso-de-Python          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Apontamentos             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +133,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:39:26 UTC
+ Last Updated on 29/08/2026 05:18:17 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
