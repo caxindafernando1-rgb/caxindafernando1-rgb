@@ -50,7 +50,7 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
@@ -58,7 +58,7 @@
 
 > 📦 32.8 kB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2026
+> 🏆 341 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                114 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌆 Daytime                113 commits         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌃 Evening                98 commits          ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-🌙 Night                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+🌞 Morning                116 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌆 Daytime                113 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
+🌃 Evening                99 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌙 Night                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Tuesday                  70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Wednesday                86 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Thursday                 51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Monday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Tuesday                  70 commits          █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Wednesday                86 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Thursday                 51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 
@@ -93,20 +93,17 @@ Sunday                   37 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-C                        7 hrs 15 mins       ███████████████████████░░   92.61 % 
-Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C                        8 hrs 18 mins       █████████████████████████   99.95 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curso-Microgenio         7 hrs 16 mins       ███████████████████████░░   92.67 % 
-Projetos                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+curso-Microgenio         8 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +127,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 02:35:10 UTC
+ Last Updated on 06/09/2026 02:31:56 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
