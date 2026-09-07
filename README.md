@@ -50,7 +50,7 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
@@ -93,17 +93,18 @@ Sunday                   37 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-C                        8 hrs 18 mins       █████████████████████████   99.95 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C                        9 hrs 3 mins        █████████████████████████   99.46 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curso-Microgenio         8 hrs 19 mins       █████████████████████████   100.00 % 
+curso-Microgenio         9 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,7 +128,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 02:31:56 UTC
+ Last Updated on 07/09/2026 02:29:27 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
