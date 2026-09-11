@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,21 +93,21 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-C                        5 hrs 42 mins       ███████████████████████░░   90.30 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C                        4 hrs 56 mins       ██████████████████████░░░   89.27 % 
+Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curso-Microgenio         5 hrs 46 mins       ███████████████████████░░   91.31 % 
-Projetos                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+curso-Microgenio         4 hrs 59 mins       ███████████████████████░░   90.08 % 
+Projetos                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 💻 Operating System: 
-Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,7 +131,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:44:36 UTC
+ Last Updated on 11/09/2026 02:37:53 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
