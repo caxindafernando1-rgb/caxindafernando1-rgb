@@ -50,15 +50,15 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 35.7 kB Used in GitHub's Storage 
+> 📦 36.3 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2026
+> 🏆 387 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                143 commits         ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌆 Daytime                133 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
-🌃 Evening                124 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+🌞 Morning                145 commits         ████████░░░░░░░░░░░░░░░░░   33.96 % 
+🌆 Daytime                133 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌃 Evening                126 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Thursday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Saturday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Wednesday                100 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Thursday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Saturday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -93,25 +93,26 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    15 hrs 52 mins      ████████████████░░░░░░░░░   63.88 % 
-C                        6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-C++                      2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-INI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    19 hrs 26 mins      █████████████████░░░░░░░░   69.94 % 
+C                        5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+INI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-mikroCforPIC             15 hrs 39 mins      ████████████████░░░░░░░░░   62.99 % 
-VS Code                  9 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.73 % 
-Flowcode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+mikroCforPIC             19 hrs 19 mins      █████████████████░░░░░░░░   69.53 % 
+VS Code                  8 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Flowcode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 hrs 43 mins      ████████████████░░░░░░░░░   63.27 % 
-curso-Microgenio         7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Arduino                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Mstimer2                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Unknown Project          19 hrs 23 mins      █████████████████░░░░░░░░   69.78 % 
+curso-Microgenio         6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Curso-de-Python          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Arduino                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Mstimer2                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Windows                  24 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +136,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:57:46 UTC
+ Last Updated on 24/09/2026 02:48:33 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
