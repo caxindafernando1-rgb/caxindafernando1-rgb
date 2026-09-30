@@ -93,22 +93,21 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    29 hrs 54 mins      ████████████████████████░   95.66 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    30 hrs 42 mins      █████████████████████████   99.15 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-mikroCforPIC             29 hrs 54 mins      ████████████████████████░   95.67 % 
-VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+mikroCforPIC             30 hrs 42 mins      █████████████████████████   99.15 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 hrs 54 mins      ████████████████████████░   95.67 % 
-Curso-de-Python          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-curso-Microgenio         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Unknown Project          30 hrs 42 mins      █████████████████████████   99.15 % 
+curso-Microgenio         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  31 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +132,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 03:50:18 UTC
+ Last Updated on 30/09/2026 03:38:44 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
