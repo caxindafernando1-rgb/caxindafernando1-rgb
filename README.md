@@ -50,13 +50,13 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 59.2 kB Used in GitHub's Storage 
+> 📦 59.3 kB Used in GitHub's Storage 
  > 
 > 🏆 409 Contributions in the Year 2026
  > 
@@ -93,22 +93,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    27 hrs 11 mins      █████████████████████████   98.71 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    24 hrs 7 mins       █████████████████████████   99.27 % 
+C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-mikroCforPIC             27 hrs 18 mins      █████████████████████████   99.15 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-PacketTracerExecutable   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+mikroCforPIC             24 hrs 15 mins      █████████████████████████   99.77 % 
+PacketTracerExecutable   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-Unknown Project          27 hrs 21 mins      █████████████████████████   99.35 % 
-curso-Microgenio         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Unknown Project          24 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +130,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 03:43:11 UTC
+ Last Updated on 03/10/2026 03:27:59 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
