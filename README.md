@@ -93,21 +93,20 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    12 hrs 16 mins      ███████████████████████░░   90.63 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    8 hrs               ██████████████████████░░░   86.39 % 
+Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 
 🔥 Editors: 
-mikroCforPIC             7 hrs 55 mins       ███████████████░░░░░░░░░░   58.52 % 
-PacketTracerExecutable   4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+PacketTracerExecutable   4 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.92 % 
+mikroCforPIC             3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+VS Code                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 16 mins      ███████████████████████░░   90.63 % 
-REDES                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Unknown Project          8 hrs               ██████████████████████░░░   86.32 % 
+REDES                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 
 💻 Operating System: 
-Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +131,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 02:42:27 UTC
+ Last Updated on 19/10/2026 02:55:29 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
