@@ -50,7 +50,7 @@
 ---
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,20 +93,20 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    4 hrs 29 mins       ████████████████████░░░░░   78.04 % 
-Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Other                    7 hrs 27 mins       ████████████████████░░░░░   80.40 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
 
 🔥 Editors: 
-mikroCforPIC             3 hrs 18 mins       ██████████████░░░░░░░░░░░   57.55 % 
-VS Code                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-PacketTracerExecutable   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+mikroCforPIC             6 hrs 16 mins       █████████████████░░░░░░░░   67.70 % 
+VS Code                  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+PacketTracerExecutable   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 28 mins       ███████████████████░░░░░░   77.92 % 
-REDES                    1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Unknown Project          7 hrs 26 mins       ████████████████████░░░░░   80.32 % 
+REDES                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,7 +131,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 03:05:40 UTC
+ Last Updated on 21/10/2026 02:59:50 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
