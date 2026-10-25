@@ -93,19 +93,19 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    4 hrs 12 mins       ██████████████████████░░░   88.33 % 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Other                    6 hrs 30 mins       ███████████████████████░░   92.13 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-mikroCforPIC             4 hrs 12 mins       ██████████████████████░░░   88.33 % 
-VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+mikroCforPIC             6 hrs 30 mins       ███████████████████████░░   92.13 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 12 mins       ██████████████████████░░░   88.33 % 
-REDES                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Unknown Project          6 hrs 30 mins       ███████████████████████░░   92.13 % 
+REDES                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +130,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caxindafernando1-rgb/caxindafernando1-rgb/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 02:59:15 UTC
+ Last Updated on 25/10/2026 02:52:15 UTC
 <!--END_SECTION:waka-->
 --- 
 <a href="https://github.com/caxindafernando1-rgb" target="_blank">
